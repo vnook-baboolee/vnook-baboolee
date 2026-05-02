@@ -3,3 +3,9 @@
 <a href="https://www.codewars.com/users/vnook-dedoolee">
   <img align="center" style="margin:0.5rem" src="https://www.codewars.com/users/vnook-dedoolee/badges/large" alt="Codewars profile" />
 </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
